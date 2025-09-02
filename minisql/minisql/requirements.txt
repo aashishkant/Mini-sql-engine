@@ -1,0 +1,11 @@
+# The contents of the requirements.txt file for the project
+
+# List of dependencies required for the project
+# Add your project dependencies below
+
+# Example dependencies
+# numpy
+# pandas
+# sqlalchemy
+# flask
+# pytest

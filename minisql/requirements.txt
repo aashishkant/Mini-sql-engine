@@ -1,0 +1,2 @@
+# Mini SQL Engine Requirements
+# No external dependencies required for core functionality
